@@ -1,1 +1,1 @@
-Hello! My name is RomQori
+python -version
